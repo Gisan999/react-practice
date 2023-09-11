@@ -1,0 +1,12 @@
+.bottles-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+#width{
+    /* width: auto; */
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
